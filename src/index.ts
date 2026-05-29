@@ -13,7 +13,7 @@ function printBanner() {
 ╔══════════════════════════════════════════╗
 ║     🏦  Stripe MCP Server v1.0.0         ║
 ║     Premium Stripe integration for MCP   ║
-║     github.com/billbtbillb-ui            ║
+║     github.com/freshtemp-labs            ║
 ╚══════════════════════════════════════════╝
 `;
   console.error(banner);

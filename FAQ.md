@@ -180,4 +180,4 @@ Node.js ≥ 18 (uses ESM, global fetch).
 
 ### Can I contribute?
 
-Absolutely! Open an issue or PR on [GitHub](https://github.com/billbtbillb-ui/stripe-mcp-server).
+Absolutely! Open an issue or PR on [GitHub](https://github.com/freshtemp-labs/stripe-mcp-server).
